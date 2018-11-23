@@ -8,3 +8,7 @@ In this project , we take the reviews and try to identify wheteher its a positiv
 2.Logistic Regresion
 3.Linear Regression
 4.Support Vector Machines
+
+
+Process:
+1. first execute the eda file . This is used for cleaning the data.

@@ -12,3 +12,4 @@ In this project , we take the reviews and try to identify wheteher its a positiv
 
 Process:
 1. first execute the eda file . This is used for cleaning the data.
+2.Then execute all the other files
